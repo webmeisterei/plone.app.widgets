@@ -11,7 +11,14 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   select_widget
+   general
+   widget_date
+   widget_datetime
+   widget_select
+   widget_ajaxselect
+   widget_relateditem
+   widget_querystring
+   widget_richtext
 
 
 Indices and tables
@@ -20,4 +27,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
