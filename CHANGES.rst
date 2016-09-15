@@ -4,6 +4,9 @@ Changelog
 1.9.1 (unreleased)
 ------------------
 
+- Patch image scales in javascript source as long as those are not read from
+  plone.app.imaging settings [frisi]
+
 - Use the RAW text for Archetypes based TinyMCE content, this fixes
   image handling with TinyMCE.
   [pcdummy]
